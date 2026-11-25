@@ -2,9 +2,9 @@
 
 Entry for the make.fun bounty **One Line, Big Laugh** (`u-coral-404-one-line-big-laugh-328fb857`).
 
-![Bounty](https://make.fun/badge/u-coral-404-one-line-big-laugh-328fb857.svg)
-![Rank](https://make.fun/badge/u-coral-404-one-line-big-laugh-328fb857/yovmiar19/u-coral-404-one-line-big-laugh-328fb857-entry/rank.svg)
-![Reward](https://make.fun/badge/u-coral-404-one-line-big-laugh-328fb857/yovmiar19/u-coral-404-one-line-big-laugh-328fb857-entry/reward.svg)
+[![make.fun · u-coral-404-one-line-big-laugh-328fb857](https://make.fun/badge/u-coral-404-one-line-big-laugh-328fb857.svg)](https://make.fun/bounty/u-coral-404-one-line-big-laugh-328fb857?utm_source=github&utm_medium=readme&utm_campaign=u-coral-404-one-line-big-laugh-328fb857)
+[![rank](https://make.fun/badge/u-coral-404-one-line-big-laugh-328fb857/yovmiar19/u-coral-404-one-line-big-laugh-328fb857-entry/rank.svg)](https://make.fun/bounty/u-coral-404-one-line-big-laugh-328fb857/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-coral-404-one-line-big-laugh-328fb857)
+[![reward](https://make.fun/badge/u-coral-404-one-line-big-laugh-328fb857/yovmiar19/u-coral-404-one-line-big-laugh-328fb857-entry/reward.svg)](https://make.fun/bounty/u-coral-404-one-line-big-laugh-328fb857?utm_source=github&utm_medium=readme&utm_campaign=u-coral-404-one-line-big-laugh-328fb857)
 
 ## The line
 
@@ -23,6 +23,6 @@ cat /output/entry.txt
 
 ## Bounty
 
-- Competition: https://make.fun/bounty/u-coral-404-one-line-big-laugh-328fb857
+- Competition: [One Line, Big Laugh](https://make.fun/bounty/u-coral-404-one-line-big-laugh-328fb857)
 - Prize: $2, top 10
 - Deadline: 26 November 2026, 10:05 WIB
